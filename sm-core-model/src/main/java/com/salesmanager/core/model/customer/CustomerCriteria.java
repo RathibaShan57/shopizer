@@ -4,6 +4,7 @@ import com.salesmanager.core.model.common.Criteria;
 /*Testable checkin 
 2nd test
 3rd test
+4th test
 */ 
 
 public class CustomerCriteria extends Criteria {
