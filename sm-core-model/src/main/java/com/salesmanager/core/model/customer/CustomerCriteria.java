@@ -3,6 +3,7 @@ package com.salesmanager.core.model.customer;
 import com.salesmanager.core.model.common.Criteria;
 /*Testable checkin 
 2nd test
+3rd test
 */ 
 
 public class CustomerCriteria extends Criteria {
