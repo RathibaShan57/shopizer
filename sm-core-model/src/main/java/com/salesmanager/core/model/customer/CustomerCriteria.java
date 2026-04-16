@@ -1,7 +1,8 @@
 package com.salesmanager.core.model.customer;
 
 import com.salesmanager.core.model.common.Criteria;
-/*Testable checkin
+/*Testable checkin 
+2nd test
 */ 
 
 public class CustomerCriteria extends Criteria {
