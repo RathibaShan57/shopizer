@@ -8,6 +8,7 @@ import com.salesmanager.core.model.common.Criteria;
 5th test
 6th test
 7th test
+8th test
 */ 
 
 public class CustomerCriteria extends Criteria {
